@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  color: orange;
+}
+
+p {
+  text-align: center;
+  color: blue;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+}
